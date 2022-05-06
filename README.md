@@ -8,7 +8,7 @@
 
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)-->
-[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" style="padding-right:10px;" />]
+<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" style="padding-right:10px;" />
 
 
 ### Languages and Tools:
